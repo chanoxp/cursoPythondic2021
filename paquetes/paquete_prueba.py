@@ -7,7 +7,7 @@ print(modulo1.Clase1.mostrar) # direccion de la clase
 print(llamar_modulo1.mostrar())
 
 
-llamar_modulo2 = modulo2.Clase2('Clase1') # creamos una instancia
+llamar_modulo2 = modulo2.Clase2('Clase2') # creamos una instancia
 print (llamar_modulo2) # direccion objeto memoria
 print(modulo2.Clase2.mostrar) # direccion de la clase
 print(llamar_modulo2.mostrar())
