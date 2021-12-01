@@ -1,0 +1,3 @@
+import festival_musical
+
+from festival_musical import FestivalMusical

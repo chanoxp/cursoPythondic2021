@@ -1,0 +1,19 @@
+# ejemplo de while
+print("ejemplo de while")
+i = 1
+while i <= 1000:
+    print(i)
+    i = 5 * i + 1
+
+print("Programa terminado")
+
+
+# Fibonacci series:
+# the sum of two elements defines the next
+print ('Fibonacci series')
+a, b = 0, 1
+while a < 1000:
+    print(a)
+    a, b = b, a+b
+
+print("Programa terminado")    
