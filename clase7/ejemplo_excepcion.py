@@ -1,7 +1,7 @@
 def funcion_excepciones():
     try:
         # Dividir entre cero genera una excepción
-        print(10 / 1)
+        print(10 / 0)
     except ZeroDivisionError:
         print("Error. No se puede dividir por cero.")
     else:  #La excepción no ha ocurrido
